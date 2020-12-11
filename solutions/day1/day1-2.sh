@@ -2,7 +2,7 @@
 
 set -e
 
-# Find two entries that sum to 2020 and multiple them together - small dataset so brute force
+# Find three entries that sum to 2020 and multiple them together - small dataset so brute force
 
 INPUT=$(cat input.txt)
 
